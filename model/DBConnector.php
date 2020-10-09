@@ -59,8 +59,8 @@ function openDBConnexion()
     $hostname = 'localhost';
     $port = 3306;
     $charset = 'utf8';
-    $dbName = 'id15069493_skarfoxdatabase';
-    $userName = 'id15069493_skarfox';
+    $dbName = 'SkarfoxData';
+    $userName = 'skarfoxGaming';
     $userPwd = '2001C.starGaming';
     $dsn = $sqlDriver . ':host=' . $hostname . ';dbname=' . $dbName . ';port=' . $port . ';charset=' . $charset;
 

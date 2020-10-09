@@ -11,16 +11,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62740e15-861e-4a54-84d1-e780bd4f935b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Anime/animeIndex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controller/themeControler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controller/userController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gaming/Controller/navigationController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gaming/View/gabarit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gaming/View/home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gaming/gamingIndex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/DBConnector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/userManagement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/themeControler.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/themeControler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/userController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/userController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming/Controller/navigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/gaming/controller/navigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming/View/gabarit.php" beforeDir="false" afterPath="$PROJECT_DIR$/gaming/view/gabarit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming/View/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/gaming/view/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gaming/gamingIndex.php" beforeDir="false" afterPath="$PROJECT_DIR$/gaming/gamingIndex.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/arrows.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/arrows.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/arrows1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/arrows1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/dott.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/dott.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/g1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/g2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/g3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/g4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/g5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/g6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/g7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/g8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/g9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/t1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/t1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/t2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/t2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/t3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/t3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/t4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/t4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/DBConnector.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/DBConnector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/userManagement.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/userManagement.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +52,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,19 +86,7 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -91,24 +101,25 @@
       <workItem from="1602161041526" duration="852000" />
       <workItem from="1602161925612" duration="1407000" />
       <workItem from="1602209927085" duration="2398000" />
+      <workItem from="1602237677294" duration="1075000" />
+      <workItem from="1602247721355" duration="870000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="679" y="110" width="588" height="898" key="#PHP" timestamp="1602158553833">
