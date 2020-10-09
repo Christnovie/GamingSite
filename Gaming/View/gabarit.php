@@ -1,6 +1,6 @@
 <?php
 /**
- * Projet : Gaming Site
+ * Projet : gaming Site
  * Nom : gabarit.php
  * Auteur : Christnovie.KIALA-BI
  * Date : 08.10.2020

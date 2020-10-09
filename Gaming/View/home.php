@@ -1,11 +1,11 @@
 <?php
 /**
- * Projet : Gaming Site
+ * Projet : gaming Site
  * Nom : home.php
  * Auteur : Christnovie.KIALA-BI
  * Date : 08.10.2020
  */
-$title = "Skarfox Gaming - Home";
+$title = "Skarfox gaming - Home";
 
 ob_start();
 $rows = 0; // Column count

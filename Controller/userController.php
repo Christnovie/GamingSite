@@ -1,6 +1,6 @@
 <?php
 /**
- * Projet : Gaming Site
+ * Projet : gaming Site
  * Nom : userController.php
  * Auteur : Christnovie.KIALA-BI
  * Date : 08.10.2020
@@ -46,7 +46,7 @@ function logout($theme)
     $_SESSION = array();
     session_destroy();
     $_GET['page'] = $theme;
-    require "Gaming/gamingIndex.php";
+    require "gaming/gamingIndex.php";
 }
 
 /**
@@ -65,7 +65,7 @@ function register($registerRequest)
             $userPswRepeat = $registerRequest['inputUserPswRepeat'];
 
             if ($userPsw == $userPswRepeat) {
-                require_once "Model/usersManager.php";
+                require_once "model/usersManager.php";
                 if (registerNewAccount($userEmailAddress, $userPsw)) {
                     createSession($userEmailAddress);
                     $registerErrorMessage = null;

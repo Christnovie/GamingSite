@@ -1,12 +1,12 @@
 <?php
 /**
- * Projet : Gaming Site
+ * Projet : gaming Site
  * Nom : gamingIndex.php
  * Auteur : Christnovie.KIALA-BI
  * Date : 08.10.2020
  */
 
-require "controller/navigationController.php";
+require "gaming/controller/navigationController.php";
 
 
 if (isset($_GET['action'])) {

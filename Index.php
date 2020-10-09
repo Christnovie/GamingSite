@@ -1,13 +1,13 @@
 <?php
 /**
- * Projet : Gaming Site
- * Nom : Index.php
+ * Projet : gaming Site
+ * Nom : index.php
  * Auteur : Christnovie.KIALA-BI
  * Date : 08.10.2020
  */
 
-require "Controller/themeControler.php";
-require "Controller/userController.php";
+require "controller/themeControler.php";
+require "controller/userController.php";
 if (isset($_GET['action'])) {
     $action = $_GET['action'];
     switch ($action) {
