@@ -6,7 +6,8 @@
  * Date : 08.10.2020
  */
 
-require "controller/themeControler.php";
+require "Controller/themeControler.php";
+require "Controller/userController.php";
 if (isset($_GET['action'])) {
     $action = $_GET['action'];
     switch ($action) {

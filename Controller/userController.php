@@ -41,11 +41,12 @@ function login($loginRequest)
  * @brief This function is designed to manage logout request
  * @remark In case of login, the user session will be destroyed.
  */
-function logout()
+function logout($theme)
 {
     $_SESSION = array();
     session_destroy();
-    require "view/home.php";
+    $_GET['page'] = $theme;
+    require "Gaming/gamingIndex.php";
 }
 
 /**
@@ -64,7 +65,7 @@ function register($registerRequest)
             $userPswRepeat = $registerRequest['inputUserPswRepeat'];
 
             if ($userPsw == $userPswRepeat) {
-                require_once "model/usersManager.php";
+                require_once "Model/usersManager.php";
                 if (registerNewAccount($userEmailAddress, $userPsw)) {
                     createSession($userEmailAddress);
                     $registerErrorMessage = null;
