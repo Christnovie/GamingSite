@@ -9,5 +9,5 @@
  * function for home
  */
 function home(){
-    require_once("gaming/View/home.php");
+    require_once("gaming/view/home.php");
 }

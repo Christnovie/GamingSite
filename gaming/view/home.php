@@ -10,8 +10,8 @@ $title = "Skarfox gaming - Home";
 ob_start();
 $rows = 0; // Column count
 ?>
-HARAM
+
 <?php
 $content = ob_get_clean();
-require 'gabarit.php';
+require 'gaming/view/gabarit.php';
 ?>
