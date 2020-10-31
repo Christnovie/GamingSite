@@ -11,7 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62740e15-861e-4a54-84d1-e780bd4f935b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/anime/controller/navigationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anime/view/gabarit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anime/view/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cinema/cinemaIndex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cinema/controller/navigationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cinema/view/gabarit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cinema/view/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anime/animeIndex.php" beforeDir="false" afterPath="$PROJECT_DIR$/anime/animeIndex.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gaming/view/gabarit.php" beforeDir="false" afterPath="$PROJECT_DIR$/gaming/view/gabarit.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cinema" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,6 +60,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\SiteWeb\GamingSite\cinema" />
+      <recent name="C:\SiteWeb\GamingSite\anime" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="WebMaster" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
@@ -72,6 +91,8 @@
       <workItem from="1602247721355" duration="870000" />
       <workItem from="1603697412483" duration="826000" />
       <workItem from="1603801151313" duration="2397000" />
+      <workItem from="1603875424516" duration="606000" />
+      <workItem from="1604131363483" duration="3294000" />
     </task>
     <servers />
   </component>
@@ -103,22 +124,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1603698607142" />
-    <state width="1875" height="287" key="GridCell.Tab.0.bottom" timestamp="1603698608704">
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom" timestamp="1604142035053">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603698608704" />
-    <state width="1875" height="287" key="GridCell.Tab.0.center" timestamp="1603698608704">
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604142035053" />
+    <state width="1323" height="218" key="GridCell.Tab.0.center" timestamp="1604142035053">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="287" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603698608704" />
-    <state width="1875" height="287" key="GridCell.Tab.0.left" timestamp="1603698608704">
+    <state width="1323" height="218" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604142035053" />
+    <state width="1323" height="218" key="GridCell.Tab.0.left" timestamp="1604142035053">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="287" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603698608704" />
-    <state width="1875" height="287" key="GridCell.Tab.0.right" timestamp="1603698608704">
+    <state width="1323" height="218" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604142035053" />
+    <state width="1323" height="218" key="GridCell.Tab.0.right" timestamp="1604142035053">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="287" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603698608704" />
+    <state width="1323" height="218" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604142035053" />
     <state width="1875" height="356" key="GridCell.Tab.1.bottom" timestamp="1602161893303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -151,10 +172,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1875" height="356" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602161893303" />
-    <state x="794" y="459" key="NewPhpFileDialog" timestamp="1602158308748">
+    <state x="794" y="459" key="NewPhpFileDialog" timestamp="1604132474683">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="794" y="459" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602158308748" />
+    <state x="794" y="459" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604132474683" />
     <state x="284" y="186" width="998" height="776" key="SettingsEditor" timestamp="1602161247431">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

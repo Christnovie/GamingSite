@@ -26,13 +26,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             window.scrollTo(0, 1);
         } </script>
     <!-- bootstrap-css -->
-    <link href="css/gaming/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
     <!--// bootstrap-css -->
     <!-- css -->
-    <link rel="stylesheet" href="css/gaming/style.css" type="text/css" media="all"/>
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all"/>
     <!--// css -->
     <!-- font-awesome icons -->
-    <link href="css/gaming/font-awesome.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
     <!-- //font-awesome icons -->
     <!-- font -->
     <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
@@ -42,7 +42,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <script src="js/jquery-1.11.1.min.js"></script>
     <script src="js/bootstrap.js"></script>
     <!-- light-box -->
-    <link rel="stylesheet" href="css/gaming/lightbox.css">
+    <link rel="stylesheet" href="css/lightbox.css">
     <!-- //light-box -->
     <!-- <script src="js/SmoothScroll.min.js"></script> -->
     <script type="text/javascript">
@@ -102,7 +102,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="index.html" class="active">Home</a></li>
-                            <li><a href="index.php?action=anime&page=home" class="scroll">About</a></li>
+                            <li><a href="#about" class="scroll">About</a></li>
                             <li><a href="#services" class="scroll">Services</a></li>
                             <li><a href="#gallery" class="scroll">Gallery</a></li>
                             <li><a href="#news" class="scroll">News</a></li>

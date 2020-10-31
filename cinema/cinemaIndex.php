@@ -1,12 +1,12 @@
 <?php
 /**
- * Projet : gaming Site
- * Nom : animeIndex.php
+ * Projet : GamingSite
+ * Nom : cinemaIndex.php
  * Auteur : Christnovie.KIALA-BI
- * Date : 08.10.2020
+ * Date : 31.10.2020
  */
 
-require "anime/controller/navigationController.php";
+require "cinema/controller/navigationController.php";
 
 
 if (isset($_GET['action'])) {
@@ -17,9 +17,6 @@ if (isset($_GET['action'])) {
             break;
         case 'anime' :
             anime($_GET['page']);
-            break;
-        case 'gaming' :
-            gaming($_GET['page']);
             break;
 
         default :
