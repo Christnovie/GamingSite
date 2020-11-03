@@ -13,5 +13,5 @@ $rows = 0; // Column count
 
 <?php
 $content = ob_get_clean();
-require 'gaming/view/gabarit.php';
+require 'anime/view/gabarit.php';
 ?>
